@@ -1,0 +1,12 @@
+
+
+#header {min-height:50px;border:1px solid silver;
+    background-color: gold; font-size:2.5em;text-align: center;margin-top:10px;  }
+
+#content {font-size: 1.6em;line-height:1.3em; font-family:'Times New Roman', Times, serif; padding:10px 10px;margin:10px;  
+    word-wrap: break-word; border-radius:25px; border:1px solid blue;   min-height:500px;}
+
+#theText {font-size: 1.6em;line-height:1.3em; font-family:'Times New Roman', Times, serif; padding:5px 5px;margin:10px;  
+    word-wrap: break-word; border-radius:25px; 
+    overflow:hidden; min-height:500px; }
+#content li {padding-left: 25px;}    
