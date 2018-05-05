@@ -6,12 +6,19 @@ Enclose the text in following
 ==============================
 
 ** and ** for bold text
+
 && and && for Red text
+
 ^^ and ^^ for Green text
+
 %% and %% for Blue text
+
 __ and __ for Underline text
+
 ~~ and ~~ for Strike Through text
+
 !! and !! for italics text
+
 
 To create Heading
 ====================
